@@ -1,0 +1,262 @@
+{
+  "basics": {
+    "name": "Evgeniy Vasilev",
+    "label": "Programmer",
+    "picture": "",
+    "email": "aquilax@gmail.com",
+    "phone": "+46721598041",
+    "website": "http://www.avtobiografia.com",
+    "summary": "I have 13+ years experience working in IT companies, over wide range of projects including e-commerce websites, ERP systems, an advertising network and some desktop software. My primary choice for programming language is PHP, but I’m also fluent in JavaScript, CoffeeScript and Pascal. My experience with databases covers PostgreSQL, MySQL, SQLite and some Oracle and MsSQL. During the years I’ve worked in international companies in multilingual environments. I consider myself hard working and a quick learner.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Stockholm"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "aquilax",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "aquilax",
+        "url": "http://linkedin.com/in/aquilax"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fyndiq AB",
+      "position": "Integration Developer",
+      "website": "",
+      "startDate": "2015-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Wikia",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2013-10-01",
+      "summary": "- SOA\n- node.js\n- TypeScript\n- Solr\n- ElasticSearch\n- MediaWiki\n- data mining\n- API",
+      "highlights": [],
+      "endDate": "2015-01-01"
+    },
+    {
+      "company": "Darkium Studio",
+      "position": "Full Stack Web developer",
+      "website": "",
+      "startDate": "2013-03-01",
+      "summary": "- Front-end web interface development with JavaScript, CoffeScript using Facebook API and jQuery;\n- Heavy-load backend PHP development;\n- Chef cookbooks for inhouse installations;",
+      "highlights": [],
+      "endDate": "2013-09-01"
+    },
+    {
+      "company": "Webinfluence Studio",
+      "position": "Full Stack Web Developer",
+      "website": "",
+      "startDate": "2012-10-01",
+      "summary": "- Front-end development\n- Back-end PHP development\n- NSIS installations",
+      "highlights": [],
+      "endDate": "2013-02-01"
+    },
+    {
+      "company": "JAR Computers",
+      "position": "Full Stack Web Developer",
+      "website": "",
+      "startDate": "2008-04-01",
+      "summary": "- Maintenance of the old e-commerce website\n- Development of the new e-commerce website\n- Promotional mailing management system CRM\n- ERP system and database design\n- ERP Modules both front and back-end\n- Several e-commerce websites\n- PostgreSQL/MySQL development and administration",
+      "highlights": [],
+      "endDate": "2012-09-01"
+    },
+    {
+      "company": "Office 1 Superstore / Panda Coop.",
+      "position": "Freelance Delphi Developer",
+      "website": "",
+      "startDate": "2007-01-01",
+      "summary": "- Delphi application for database synchronization between dBase and Oracle databases\n- ERP system modifications (Clipper and Delphi)\n- Credit card payment synchronization system;",
+      "highlights": [],
+      "endDate": "2007-12-01"
+    },
+    {
+      "company": "OFFICE 1 Superstores International",
+      "position": "MISIT Manager",
+      "website": "",
+      "startDate": "2005-10-01",
+      "summary": "- Development of the e-commerce websites for local markets in developed countries\n- E-commerce data synchronization modules\n- IT training for international partners\n- ERP system modifications and new modules",
+      "highlights": [],
+      "endDate": "2007-12-01"
+    },
+    {
+      "company": "911.bg",
+      "position": "Delphi Developer",
+      "website": "",
+      "startDate": "2000-12-01",
+      "summary": "- Data management and synchronization applications\n- Online support chat application\n- Dropbox-like Delphi application for Windows\n- Data indexer and search engine\n- Data mining\n- ActiveX Components for ASP",
+      "highlights": [],
+      "endDate": "2005-08-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University - Sofia",
+      "area": "",
+      "studyType": "Bachelor",
+      "startDate": "1999-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "PMG Dobri Chintulov",
+      "area": "",
+      "studyType": "Secondary",
+      "startDate": "1995-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2000-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CodeIgniter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TDD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Delphi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CoffeeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Limited working"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary"
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
